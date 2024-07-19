@@ -32,7 +32,7 @@ The dataset used in this project can be found at `D:\Python\zomato.csv`. It cont
    ```bash
     pip install -r requirements.txt
    ```bash
- python analysis.py
+    python analysis.py
 
 
 ## Usage
