@@ -23,3 +23,14 @@ The dataset used in this project can be found at `D:\Python\zomato.csv`. It cont
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/zomato-data-analysis.git
+
+2. Change to the project directory:
+   ```bash
+   cd zomato-data-analysis
+
+3. Install the required dependencies:
+   ```bash
+    pip install -r requirements.txt
+
+
+   
