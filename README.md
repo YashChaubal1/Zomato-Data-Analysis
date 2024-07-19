@@ -31,10 +31,12 @@ The dataset used in this project can be found at `D:\Python\zomato.csv`. It cont
 3. Install the required dependencies:
    ```bash
     pip install -r requirements.txt
-  Run the analysis script:
-   ```bash
+  ```bash
     python analysis.py
 
+## Usage 
+  Run the analysis script:
+   
 ## Libraries
 - numpy: For numerical operations
 - pandas: For data manipulation and analysis
